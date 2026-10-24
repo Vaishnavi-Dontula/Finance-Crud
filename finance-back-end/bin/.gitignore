@@ -1,0 +1,10 @@
+target/
+.classpath
+.factorypath
+.project
+.settings/
+.sts4-cache/
+.idea/
+.vscode/
+*.iml
+.env

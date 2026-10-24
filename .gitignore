@@ -1,0 +1,20 @@
+
+# React frontend
+finance-react-frontend/node_modules/
+finance-react-frontend/build/
+finance-react-frontend/dist/
+finance-react-frontend/.env
+
+# Spring Boot backend
+**/target/
+
+# IDE files
+.vscode/
+.idea/
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
